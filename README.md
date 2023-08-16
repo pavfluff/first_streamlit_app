@@ -1,4 +1,4 @@
-# As the repo says, it's my First Streamlit App
+# Streamlit App for Badge 2: Data Applications Workshop in Snowflake
 
-First streamlit app used for snowflake Badge 2 workshop
+Practice streamlit app for Data Applications Workshop in Snowflake. 
 
